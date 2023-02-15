@@ -1,3 +1,3 @@
 # Hello Git and GitHub
 
-![APPLE](Image/apple.png "apple")
+![APPLE](./Image/apple.png "apple")

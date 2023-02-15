@@ -1,9 +1,8 @@
 # History Trivia
 *Por: Brian Jiménez Moedano*
-
 *Febrero de 2023*
 
-![History Trivia Logo](Images/HistoryTriviaLogo.png "History Trivia Logo")
+![History Trivia Logo](Images/HistoryTriviaLogo.png =250x250 "History Trivia Logo")
 
 ## Descripción
 
@@ -35,11 +34,11 @@ Al abrir la aplicación, se presentarán tres opciones al usuario:
 
 ![Pregunta](Images/Question.png "Pregunta")
     
-    El usuario sabrá si eligió la respuesta **correcta**, con un indicador de color **verde** en el botón de la respuesta seleccionada; de la misma manera, sabrá si eligió la respuetsa **incorrecta** con un indicador de color **rojo**.
+El usuario sabrá si eligió la respuesta **correcta**, con un indicador de color **verde** en el botón de la respuesta seleccionada; de la misma manera, sabrá si eligió la respuetsa **incorrecta** con un indicador de color **rojo**.
 
 ![Respuesta](Images/AnsweredQuestion.png "Respuesta")
     
-    Al contestar la pregunta final, se mostrará al usuario la **pantalla de puntaje final** en donde se despliega un resumen con los aciertos y errores, así como también dos opciones: **vovler a jugar** (con la configuración del juego actual), o **regresar al inicio**.
+Al contestar la pregunta final, se mostrará al usuario la **pantalla de puntaje final** en donde se despliega un resumen con los aciertos y errores, así como también dos opciones: **vovler a jugar** (con la configuración del juego actual), o **regresar al inicio**.
 
 ![Puntaje Final](Images/Score.png "Puntaje Final")
 
@@ -51,7 +50,7 @@ Al abrir la aplicación, se presentarán tres opciones al usuario:
 
 ![+Preguntas](Images/+Questions.png "+Preguntas")
 
-    Cada vez que el usuario presione el botón de **agregar**, aparecerá una alerta indicando si hay algún error en los campos llenados, o si estos fueron rellenados correctamente y la pregunta se agregó correctamente a la base de datos.
+Cada vez que el usuario presione el botón de **agregar**, aparecerá una alerta indicando si hay algún error en los campos llenados, o si estos fueron rellenados correctamente y la pregunta se agregó correctamente a la base de datos.
 
 ![+Preguntas Alerta](Images/+QuestionsAlert.png "+Preguntas Alerta")
 

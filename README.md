@@ -1,8 +1,9 @@
 # History Trivia
 *Por: Brian Jiménez Moedano*
-*Febrero de 2023*
 
-![History Trivia Logo](Images/HistoryTriviaLogo.png =250x250 "History Trivia Logo")
+*Febrero 2023*
+
+![History Trivia Logo](Images/HistoryTriviaLogo.png "History Trivia Logo")
 
 ## Descripción
 
@@ -12,7 +13,7 @@
 ## Características
 
 - **Juego de Trivia** con temática histórica.
-- Diseñada con arquitectura **MVVM**.
+- Diseño de arquitectura **MVVM**.
 - Tiene **10 preguntas precargadas** por defecto.
 - Permite agregar **preguntas personalizadas**.
 - Persistencia de datos locales con **Core Data** para las preguntas personalizadas.
